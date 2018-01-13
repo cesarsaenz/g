@@ -6,10 +6,11 @@ show **ish** git and github
 * -connect our local to the github done
 * makes changes done
 * git add .
+* git status
 * git commit -m 'changes'
 * git push -u origin master
 * git pull next
 
 git log, shows the commits
 git status, shows what has changed
-git push -u origin master
+git push -u origin master pushes current changes to github repo
