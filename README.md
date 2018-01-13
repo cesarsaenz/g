@@ -12,3 +12,4 @@ show **ish** git and github
 
 git log, shows the commits
 git status, shows what has changed
+git push -u origin master
